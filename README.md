@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <title>Fahaldine 🐆 - Stratège IA & Accélération Business</title>
