@@ -1,0 +1,38 @@
+{
+"@context": "https://schema.org",
+"@type": "Person",
+"name": "Fahaldine",
+"description": "Stratège en accélération business et expert en intelligence artificielle. Je crée des agents IA autonomes qui travaillent à la place des entrepreneurs : photos professionnelles, affiches publicitaires, copywriting, portraits studio.",
+"knowsAbout": ["Intelligence Artificielle", "Stratégie Business", "Copywriting", "Marketing Digital", "Prompt Engineering", "Automatisation", "Photographie IA", "Création de Contenu"],
+"worksFor": {
+"@type": "Organization",
+"name": "Fahaldine Labs"
+},
+"sameAs": [
+"https://www.tiktok.com/@fahaldine",
+"https://www.instagram.com/fahaldine",
+"https://web.facebook.com/fahaldine",
+"https://wa.me/22965269595"
+],
+"address": {
+"@type": "PostalAddress",
+"addressLocality": "Parakou",
+"addressCountry": "BJ"
+},
+"email": "contact@fahaldine.com",
+"telephone": "+229-65-26-95-95",
+"jobTitle": "Stratège en Accélération Business & Expert IA",
+"alumniOf": {
+"@type": "EducationalOrganization",
+"name": "Autodidacte"
+},
+"brand": {
+"@type": "Brand",
+"name": "Fahaldine 🐆",
+"slogan": "Je construis les machines à succès."
+},
+"nationality": {
+"@type": "Country",
+"name": "Bénin"
+}
+}
