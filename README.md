@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Fahaldine 🐆 - Stratège IA & Accélération Business</title>
-    <meta name="description" content="Profil structuré de Fahaldine - Expert en intelligence artificielle et stratégies business pour entrepreneurs africains">
+    <meta name="description" content="Profil structuré de Fahaldine Expert en intelligence artificielle et stratégies business pour entrepreneurs africains">
     <meta name="keywords" content="IA, intelligence artificielle, stratégie business, prompts, agents IA, automatisation, entrepreneuriat, Bénin, Afrique">
     <meta name="author" content="Fahaldine">
     <meta charset="UTF-8">
